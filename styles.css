@@ -83,12 +83,12 @@ html{
 .hover-one .part1{
     width:75%;
     z-index: 2;
-    transition: 1s;
+    transition: 1.5s;
 }
 .hover-one .part2{
     width:25%;
     z-index: 1;
-    transition: 1s;
+    transition: 1.5s;
 }
 .hover-two .part1{
     width:25%;
